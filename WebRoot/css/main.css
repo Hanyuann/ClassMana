@@ -1,0 +1,13 @@
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-image: url(../images/main.gif);
+}
+#welcome{
+	margin-top:45px;
+	margin-left:20px;
+}
+#welcome span{
+	color:#354967;
+}

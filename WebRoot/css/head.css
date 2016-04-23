@@ -1,0 +1,41 @@
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-image: url(../images/head.gif);
+}
+
+#title {
+	margin-top: 30px;
+	margin-left: 40px;
+	width: 416px;
+	height: 87px;
+	background-image: url(../images/title.gif);
+}
+
+#v {
+	margin-top: 40px;
+}
+
+#version {
+	font-size: 24px;
+	color: #354967;
+	font-weight: bold;
+}
+
+#l {
+	margin-top: 40px;
+	margin-left: 600px;
+}
+
+#logout {
+	color: #354967;
+	font-weight: bold;
+	text-decoration: underline;
+	cursor: hand;
+}
+
+.inline {
+	display: inline-block;
+	vertical-align: middle;
+}

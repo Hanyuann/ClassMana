@@ -1,0 +1,97 @@
+html {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+body {
+	margin: 0px auto;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+	font-size: 12px;
+	background-image: url(../images/background.gif);
+	overflow: hidden;
+	text-align: center;
+}
+
+#container {
+	width: 980px;
+	padding-left: 180px;
+}
+
+#login {
+	width: 925px;
+	height: 33%;
+	margin-top: 140px;
+	padding-top: 30px;
+}
+
+#title {
+	width: 416px;
+	height: 87px;
+	margin-left: 290px;
+	background-image: url(../images/title.gif);
+	background-color: ;
+}
+
+#input {
+	margin-left: 90px;
+}
+
+#text input {
+	width: 200px;
+	height: 30px;
+	background-color: #1C1C1C;
+	border: 0px;
+	color: #354967;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#btn input {
+	width: 82px;
+	height: 30px;
+	border: 0px;
+	background-image: url(../images/login.gif);
+	cursor: hand;
+}
+
+#radio {
+	margin-left: 50px;
+	margin-top: 15px;
+}
+
+#radio span {
+	color: #354967;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#a {
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
+#a a {
+	font-size: 13px;
+	color: #FFFFFF;
+	text-decoration: underline;
+	cursor: hand;
+}
+
+#error {
+	padding-top: 8px;
+	padding-left: 59px;
+}
+
+#error span {
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.inline {
+	display: inline-block;
+	vertical-align: middle;
+}
